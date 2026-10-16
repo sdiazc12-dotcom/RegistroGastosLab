@@ -13,3 +13,9 @@ Aplicación de consola desarrollada en C# utilizando una arquitectura limpia de 
 
 ## Enlace del Video
 - [Enlace público de Google Drive con la demostración de la tarea]
+## Capturas
+
+![Captura 1](Capturas/Cap1.png)
+![Captura 2](Capturas/Cap2.png)
+![Captura 3](Capturas/Cap3.png)
+![Captura 4](Capturas/Cap4.png)
