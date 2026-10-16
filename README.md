@@ -12,7 +12,7 @@ Aplicación de consola desarrollada en C# utilizando una arquitectura limpia de 
 *(Aquí puedes adjuntar las capturas de pantalla de tus escenarios funcionando)*
 
 ## Enlace del Video
-- [Enlace público de Google Drive con la demostración de la tarea]
+https://drive.google.com/file/d/1aDpBQ8Ys1dXYIB3M-WSX_EgUgtfBhNMj/view?usp=sharing
 ## Capturas
 
 ![Captura 1](Capturas/Cap1.png)
