@@ -20,7 +20,4 @@ Aplicación de consola desarrollada en C# utilizando una arquitectura limpia de 
 https://drive.google.com/file/d/1aDpBQ8Ys1dXYIB3M-WSX_EgUgtfBhNMj/view?usp=sharing
 
 
-![Captura 1](Capturas/Cap1.png)
-![Captura 2](Capturas/Cap2.png)
-![Captura 3](Capturas/Cap3.png)
-![Captura 4](Capturas/Cap4.png)
+
