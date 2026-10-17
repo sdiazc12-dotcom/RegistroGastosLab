@@ -9,11 +9,16 @@ Aplicación de consola desarrollada en C# utilizando una arquitectura limpia de 
 3. Abrir la solución en Visual Studio y presionar el botón de **Iniciar** para ver el menú en consola.
 
 ## Capturas de los Escenarios
-*(Aquí puedes adjuntar las capturas de pantalla de tus escenarios funcionando)*
+
+![Captura 1](Capturas/Cap1.png)
+![Captura 2](Capturas/Cap2.png)
+![Captura 3](Capturas/Cap3.png)
+![Captura 4](Capturas/Cap4.png)
+
 
 ## Enlace del Video
 https://drive.google.com/file/d/1aDpBQ8Ys1dXYIB3M-WSX_EgUgtfBhNMj/view?usp=sharing
-## Capturas
+
 
 ![Captura 1](Capturas/Cap1.png)
 ![Captura 2](Capturas/Cap2.png)
